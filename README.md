@@ -1,4 +1,4 @@
-<h1 align="center">Ola, sou Andrey Luiz Pereira</h1>
+<h1 align="center">Andrey Luiz Pereira</h1>
 
 - 📫Contato: andreylpereira@gmail.com
 
